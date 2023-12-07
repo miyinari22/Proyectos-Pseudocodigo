@@ -1,4 +1,4 @@
-Algoritmo hg
+Algoritmo conversor_tiempo
 	Escribir 'Bienvenido al conversor de tiempo'
 	Escribir 'Escriba los segundos a convertir en minutos, horas y dias'
 	leer n
