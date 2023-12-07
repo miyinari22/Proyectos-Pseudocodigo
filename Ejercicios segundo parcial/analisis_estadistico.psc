@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo analisis_estadistico
 	hmay<-0
 	hmen<-0
 	mmen<-0
