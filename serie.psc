@@ -1,4 +1,4 @@
-Algoritmo Ejercicio2
+Algoritmo serie
 	Definir  i Como Entero
 	definir max Como Entero
 	Definir min Como Entero
