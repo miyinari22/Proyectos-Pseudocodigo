@@ -1,4 +1,4 @@
-Algoritmo sin_titul
+Algoritmo registro_caja
 	Definir i Como Entero
 	i<-250
 	Escribir 'Bienvenido a Patito'
