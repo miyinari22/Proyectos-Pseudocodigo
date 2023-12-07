@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo sin_titul
 	maye<-0
 	mene<-0
 	definir n como entero
