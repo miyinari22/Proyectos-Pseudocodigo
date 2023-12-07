@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo sin_titul
 	Definir m Como Entero
 	Escribir 'Cuantos datos va a agregar'
 	leer m
