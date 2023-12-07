@@ -5,7 +5,7 @@ Algoritmo cadena_
 	Escribir 'Ingrese texto por favor'
 	leer cad1
 	Repetir
-		Escribir '¿Que desea hacer?'
+		Escribir 'Â¿Que desea hacer?'
 		Escribir '1.- Convertir a minusculas'
 		Escribir '2.- Convertir a Mayusculas'
 		Escribir '3.- Invertir frase'
