@@ -1,4 +1,4 @@
-Algoritmo Ejercicio1
+Algoritmo formula_cuadratica
 	Escribir 'Bienvenido Usuario'
 	Escribir 'Ingrese los valores de A, B, C'
 	Leer A, B, C
