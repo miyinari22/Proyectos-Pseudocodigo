@@ -1,4 +1,4 @@
-Algoritmo triagulo
+Algoritmo detector_triangulo
 	Escribir 'Bienvenido al detector de triangulos'
 	Escribir 'Ingrese sus longitudes'
 	Leer A, B, C
