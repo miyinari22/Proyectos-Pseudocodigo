@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo pares_impares
 	Definir m Como Entero
 	contimpar<-0
 	contpar<-0
